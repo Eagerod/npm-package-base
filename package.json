@@ -1,6 +1,6 @@
 {
-    "name": "node-project-base",
-    "description": "A base project from which to start any kind of node project.",
+    "name": "npm-package-base",
+    "description": "A base project from which to start any kind of npm package.",
     "version": "0.0.1",
     "private": true,
     "keywords": [
@@ -9,7 +9,7 @@
     ],
     "repository": { 
         "type": "git",
-        "url": "https://github.com/Eagerod/node-project-base.git"
+        "url": "https://github.com/Eagerod/npm-package-base.git"
     },
     "dependencies": {
     },
