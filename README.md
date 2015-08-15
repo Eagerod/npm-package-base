@@ -5,6 +5,7 @@ This isn't really something that should be cloned for anything, but rather downl
 You can use this as an npm package starter as is, or you can add a `start` script to `package.json` to use it as a node application.
 
 This is what this project skeleton includes:
+
 1. Docs dependency
 2. Tests dependency
 3. Linter dependency
