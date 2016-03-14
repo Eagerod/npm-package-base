@@ -15,7 +15,8 @@ This is what this project skeleton includes:
 ```
 npm run docs
 ```
-Generates documentation nice and pretty. Only recurses through the `lib` directory, because most things worthy of documenting should be in there anyways.
+Generates documentation nice and pretty. 
+Only recurses through the `lib` directory, because most things worthy of documenting should be in there anyways.
 
 ## Tests
 ```
